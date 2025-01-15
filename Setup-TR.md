@@ -94,9 +94,5 @@ cat testnet_consensus_secrets.yaml
 
 ![resim](https://github.com/user-attachments/assets/3cd95943-34e6-4db2-91db-f7aee1711c19)
 
-# 6. Grafana Dashboard'dan Node'u izleme
-```
-http://localhost:3000/d/0/external-node
-```
 
 
