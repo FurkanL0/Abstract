@@ -12,6 +12,10 @@
 | **Storage**      | 30 GB                     | 300 GB (state grows ~1TB/month)       |
 | **Network**      | 100 Mbps (1 Gbps+ recommended) | 100 Mbps (1 Gbps+ recommended)        |
 
+#### Social / Explorer : 
+
+- Twitter : https://x.com/AbstractChain
+- Explorer : https://explorer.testnet.abs.xyz/
 
 ## 1. Run the following command to update and upgrade system packages:
 
