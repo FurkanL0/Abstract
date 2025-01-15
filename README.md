@@ -78,3 +78,7 @@ cat testnet_consensus_secrets.yaml
 ```
 
 #### Source : https://docs.abs.xyz/infrastructure/nodes/running-a-node
+
+## Ports Used : 
+
+![resim](https://github.com/user-attachments/assets/3cd95943-34e6-4db2-91db-f7aee1711c19)
