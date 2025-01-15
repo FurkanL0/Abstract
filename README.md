@@ -71,7 +71,10 @@ docker logs -f --tail=0 <container name>
 - `testnet-node-grafana-1`
 
 # 5. Save your private key
+
 ```
 cd configs
 cat testnet_consensus_secrets.yaml
 ```
+
+#### Source : https://docs.abs.xyz/infrastructure/nodes/running-a-node
