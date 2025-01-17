@@ -96,3 +96,7 @@ cat testnet_consensus_secrets.yaml
 
 
 #### Kaynak : https://docs.abs.xyz/infrastructure/nodes/running-a-node
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=FurkanL0&style=flat-square&color=brightgreen&label=Profile+Views+/+Repo+Views+" alt="Repo / Profile Views" />
+</p>
