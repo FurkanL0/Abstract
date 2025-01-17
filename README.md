@@ -90,6 +90,6 @@ cat testnet_consensus_secrets.yaml
 ![resim](https://github.com/user-attachments/assets/3cd95943-34e6-4db2-91db-f7aee1711c19)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FurkanL0&style=flat-square&color=brightgreen" alt="Repo / Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=FurkanL0&style=flat-square&color=brightgreen&label=Profile+Views+/+Repo+Views" alt="Repo / Profile Views" />
 </p>
 
